@@ -32,7 +32,7 @@ I’m passionate about data science, machine learning, and software development,
 
 - :telescope: Developing intelligent systems to optimize vehicle maintenance using predictive models..
 
-- :seedling: Currently working as an intern @PRDC Info Tech .
+- :seedling: Currently working as an AI Intern @PRDC Info Tech .
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
